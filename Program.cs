@@ -1,4 +1,4 @@
-namespace c__clase_2
+namespace c__calculadora
 {
     internal class Program
     {
