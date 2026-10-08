@@ -42,5 +42,10 @@ El `Main` solo lee los números, llama a los métodos y muestra los resultados.
 
 ## Autor
 
-Nombre: Fausto Junior Moreno Santana
-Matricula: 2025-1582
+- **Nombre:** Fausto Junior Moreno Santana
+- **Matrícula:** 2025-1582
+- **Materia:** Programación Básica
+- **Sección:** iSW-122-2
+- **Profesor(a):** Gamalier Reyes Del Carmen
+- **Universidad:** Universidad Central del Este (UCE)
+
